@@ -343,9 +343,6 @@ let msg2 = helloYear2(year: 203) ?? "unknown"
 print("\(msg2) swift!")
 ```
 
-
-
-## 2021/1/20
 ## Optionals
 如果在不知道可選的元素是什麼的情形下，我們可以利用?來代表有可能是空的值，接著我們利用if let 的方式判斷，如果是nil就會跳掉else。
 
